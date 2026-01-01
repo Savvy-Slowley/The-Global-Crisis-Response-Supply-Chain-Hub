@@ -9,4 +9,17 @@ By leveraging Palantir Foundry, I have built a system that bridges the gap betwe
 <img width="1854" height="1125" alt="image" src="https://github.com/user-attachments/assets/378e78a8-f3c0-4a9e-b35f-e988b55614f1" />
 Using Jupyter Notebooks, I wrote Python scripts (utilizing Pandas and Faker) to generate Synthetic Relief Mission data.
 
-Section 2: Data Prototyping and 
+## Section 2: Production Engineering (ETL / ELT)
+<img width="1856" height="1125" alt="image" src="https://github.com/user-attachments/assets/42fedaf2-9c84-4c48-bec3-bf71510f9f0a" />
+- **Pipeline Orchestration & Lineage**  
+  - Implemented production-grade ETL using **Pipeline Builder**, providing visual workflows, version control, and full data lineage—comparable to **AWS Glue Studio** or **GCP Dataflow**.
+
+- **Data Ingestion**  
+  - Integrated the **EM-DAT Global Disaster Database**, ingesting **16,000+ historical disaster records** into a governed data pipeline.
+
+- **Data Transformation & Quality**  
+  - Cleansed, normalized, and cast **47 raw source columns** into **40 high-integrity operational properties**, ensuring consistency and analytical readiness.
+
+- **Geospatial Processing**  
+  - Enriched datasets with coordinate-based geospatial attributes to enable map-driven filtering and spatial analysis, mirroring capabilities of **AWS Location Service**.
+
