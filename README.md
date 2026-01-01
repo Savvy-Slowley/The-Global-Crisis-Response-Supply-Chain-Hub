@@ -11,6 +11,7 @@ Using Jupyter Notebooks, I wrote Python scripts (utilizing Pandas and Faker) to 
 
 ## Section 2: Production Engineering (ETL / ELT)
 <img width="1856" height="1125" alt="image" src="https://github.com/user-attachments/assets/42fedaf2-9c84-4c48-bec3-bf71510f9f0a" />
+
 - **Pipeline Orchestration & Lineage**  
   - Implemented production-grade ETL using **Pipeline Builder**, providing visual workflows, version control, and full data lineage—comparable to **AWS Glue Studio** or **GCP Dataflow**.
 
