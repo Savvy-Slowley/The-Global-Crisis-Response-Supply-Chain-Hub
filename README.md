@@ -1,5 +1,10 @@
 # The-Global-Crisis-Response-Supply-Chain-Hub
 
+
+https://github.com/user-attachments/assets/dfebd765-b0ad-4b5a-93c7-91bac3c8f340
+
+
+
 ## Overview
 <img width="1106" height="670" alt="image" src="https://github.com/user-attachments/assets/05bcaf6e-32a1-42e2-91e7-8688c14de69d" />
 This project demonstrates how enterprise data platforms are designed to move beyond simple data storage into active operational intelligence. It simulates a humanitarian command center that coordinates global disaster relief logistics.
